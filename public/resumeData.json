@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name": "Juan Catena",
+    "occupation": "ReactJS",
+    "description": "",
+    "image": "iyoni.jpg",
+    "bio": "Soy un apasionado del mundo de la programación y la tecnología. Autodidacta, disciplinado y en constante aprendizaje. Amante de la fotografía y el diseño por naturaleza.",
+    "contactmessage": "Ponete en contacto conmigo para recibir mas informacion sobre mi trabajo.",
+    "email": "juancatena4@hotmail.com",
+    "phone": "11 6120 6939",
+    "address": {
+      "city": "Buenos Aires",
+      "zip": "Argentina"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/juan-catena-gallo-8394761b4/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/juancatena/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/juancatena",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Instituto Nuestra Señora del Lourdes",
+        "degree": "Bachillerato, Ciencias Naturales",
+        "graduated": "Noviembre 2013"
+      }
+    ],
+    "work": [
+      {
+        "company": "Molino Levalle",
+        "title": "Jefe Area de Video",
+        "years": "Marzo 2016 - Presente",
+        "description": "Jefe del área de video de un estudio especializado en eventos sociales."      },
+      {
+        "company": "Tienda Revs",
+        "title": "Desarrollador Web",
+        "years": "Julio de 2020 - Agosto de 2020",
+        "description": "Desarrollo de pagina Web para este emprendimiento de ropa y accesorios."
+      },
+      {
+        "company": "Molino Levalle",
+        "title": "Realizador y Editor de Video",
+        "years": "Marzo de 2014 - Febrero de 2016",
+        "description": "Filmación y edición de video, tanto en eventos sociales, como en producciones de fotos en estudio y exteriores."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "javascript",
+        "level": "75%"
+      },
+      {
+        "name": "css",
+        "level": "65%"
+      },
+      {
+        "name": "html5",
+        "level": "70%"
+      },
+      {
+        "name": "git",
+        "level": "30%"
+      },
+      {
+        "name": "Firebase",
+        "level": "44%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 TRACKER",
+        "category": "Selecciona cualquier pais del Mundo para saber la cantidad de casos, recuperados y muertes por covid-19. Creado con ReactJS y Firebase.",
+        "image": "covidtracker.jpg",
+        "url": "https://covid-19-tracker-b05f5.web.app/"
+      },
+      {
+        "title": "AMAZON CLONE",
+        "category": "Clone de Amazon donde puedes logearte y añadir productos al carrito. Creado con ReactJS y firebase.",
+        "image": "amazonclone.jpg",
+        "url": "https://challenge-d58bc.web.app/"
+      },
+      {
+        "title": "FIND ROCK",
+        "category": "Encuentra artistas similares a tus bandas o solistas preferidos. Creado con ReactJS y firebase.",
+        "image": "find-rock.jpg",
+        "url": "https://find-rock-c4db1.web.app/"
+      },
+      {
+        "title": "Tienda Revs",
+        "category": "Pagina de ventas para un emprendimiento.",
+        "image": "tienda-revs.jpg",
+        "url": " https://tiendarevs.000webhostapp.com/"
+      }
+    ]
+  }
+}
